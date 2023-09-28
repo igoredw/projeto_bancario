@@ -66,22 +66,3 @@ while (true) {
 
 
 }
-
-// Depósito:
-// 1. Deve ser possível depositar valores positivos
-// 2. Todos os depósitos devem ser armazenados em uma
-// variável e exibidos na operação de extrato.
-
-// Saque
-// 1. O sistema deve permitir realizar 3 saques diários
-// 2. com limite máximo de R$ 500,00 por saque
-// 3. Caso o usuário não tenha saldo em conta, o sistema deve exibir
-// uma mensagem informando que não será possível sacar o dinheiro por falta de saldo.
-// 4. Todos os saques devem ser armazenados em uma variável e exibidos na operação de extrato.
-
-// Extrato
-// 1. Essa operação deve listar todos os depósitos e saques realizados na conta.
-// 2. No fim da listagem deve ser exibido o saldo atual da conta.
-// 3. Se o extrato estiver em branco, exibir a mensagem: Não foram realizadas movimentações.
-// 4. Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
-// 1500.45 = R$ 1500.45
